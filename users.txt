@@ -1,0 +1,7 @@
+collinsinclair|password1|Collin Sinclair|7203715712|2000-03-05|BarackObama|Oprah|Cristiano|
+BarackObama|password1|Barack Obama|0000000000|1961-08-04|
+rihanna|password2|Robyn Fenty|1111111111|1988-02-20|
+taylorswift13|password3|Taylor Swift|2222222222|1989-12-13|
+Cristiano|password3|Cristiano Ronaldo dos Santos Aveiro|3333333333|1985-02-05|
+Oprah|password5|Oprah Gail Winfrey|4444444444|1954-01-29|
+test|123|Test McTestface|1234567890|2020-07-20|collinsinclair|
